@@ -1,4 +1,4 @@
 node_chat_test
 ==============
 
-This project was done for deep investigation again (testing).
+This project was done for deep investigation (testing).
